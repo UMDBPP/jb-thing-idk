@@ -2,3 +2,6 @@
 	path = boards/spectrometer
 	url = https://github.com/UMDBPP/kicad-lib.git
 	branch = main
+[submodule "boards/spectrometer/lib"]
+	path = boards/spectrometer/lib
+	url = https://github.com/UMDBPP/kicad-lib.git
