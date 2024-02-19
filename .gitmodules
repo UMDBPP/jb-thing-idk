@@ -1,4 +1,4 @@
 [submodule "boards/kicad-lib"]
-	path = boards/kicad-lib
+	path = boards/spectrometer
 	url = https://github.com/UMDBPP/kicad-lib.git
 	branch = main
